@@ -2,7 +2,7 @@
 # Date: 20.09.2019
 # Vendor Homepage: https://inputmapper.com/
 # Software Link: https://inputmapper.com/downloads/category/2-input-mapper
-# Exploit Author: elkoyote
+# Exploit Author: elkoyote07
 # Tested Version: 1.6.10
 # Tested on: Windows 10 x64
 
