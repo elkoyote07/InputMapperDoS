@@ -1,2 +1,2 @@
 # InputMapperDoS
-Local DoS en Input Mapper
+Local DoS Input Mapper (all versions)
